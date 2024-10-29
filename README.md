@@ -1,5 +1,3 @@
-Here's a single file that combines all the setup instructions for the front-end, middle-end, and back-end components of the project:
-
 # MoodSync: An Emotionally Intelligent Chatbot with Music Recommendations
 
 ## Setup Instructions

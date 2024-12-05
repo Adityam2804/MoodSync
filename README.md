@@ -71,7 +71,7 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
   - Chat messages are stored in a local database or memory.
   - The chat history is accessible for enhanced user experience.
 - **Screenshot**:
-  ![Chat History](path_to_chat_history_screenshot.png)
+  ![Chat History](images/multiple.png)
 
 ---
 
@@ -82,7 +82,7 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
   - Sentiment scores (`score`) and magnitudes (`magnitude`) from the API are used for tone classification.
   - Ensures consistent and reliable tone detection.
 - **Screenshot**:
-  ![Tone Detection Similarity Scores](path_to_tone_api_screenshot.png)
+  ![Tone Detection Similarity Scores](images/result_2.png)
 
 ---
 
@@ -103,8 +103,8 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
   - **Expected Tone**: "Neutral"
   - **Detected Tone (After Retraining)**: "Neutral"
 - **Screenshot**:
-  - ![Bias Testing Results](path_to_bias_testing_screenshot.png)
-  - ![Improved Multilingual Inputs](path_to_multilingual_improvements.png)
+  - ![Bias Testing Results](images/bias_tone.png)
+  - ![Improved Multilingual Inputs](images/language.png)
 
 ---
 
@@ -125,7 +125,7 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
   - **Generated Response**: "That's awesome! Congratulations!"
   - **Similarity Score**: 0.89
 - **Screenshot**:
-  ![Chat Similarity Testing](path_to_chat_similarity_screenshot.png)
+  ![Chat Similarity Testing](images/chat.png)
 
 ---
 
@@ -137,7 +137,7 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
 - **Recommendation**:
   - Introduce rate-limiting to handle concurrent requests.
 - **Screenshot**:
-  ![Security Testing Results](path_to_security_testing_screenshot.png)
+  ![Security Testing Results](images/privacy.png)
 
 ---
 

@@ -6,7 +6,7 @@ MoodSync is a chatbot application that synchronizes with your mood to provide pe
 # MoodSync: An Emotionally Intelligent Chatbot with Music Recommendations
 
 ## Demo Video
-- URL : https://drive.google.com/file/d/1rwoXDIw-GRuiA1JCfjIpRR6w13BqHhgI/view?usp=drive_link
+- URL : https://drive.google.com/file/d/1R1XKHV-7nJ0ZUS01ZEy6MJYRkZ70bxuI/view?usp=sharing
 
 ## Setup Instructions
 
